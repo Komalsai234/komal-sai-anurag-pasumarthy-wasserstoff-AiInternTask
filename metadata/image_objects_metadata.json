@@ -1,0 +1,79 @@
+{
+    "master_image": [
+        {
+            "id": "b0974b2a-dd9b-4ed6-88b8-784296a0711f",
+            "objects": [
+                {
+                    "id": "b0974b2a-dd9b-4ed6-88b8-784296a0711f",
+                    "objects": [
+                        {
+                            "object_id": "1f6f62ae-7739-44db-bdf2-d96bf74ed00f",
+                            "label": "remote",
+                            "confidence": 0.998,
+                            "bbox": [
+                                40.16,
+                                70.81,
+                                175.55,
+                                117.98
+                            ],
+                            "extracted_text": "",
+                            "summary": ""
+                        },
+                        {
+                            "object_id": "86ba5297-aed4-44b9-84c2-0e3dc12be935",
+                            "label": "remote",
+                            "confidence": 0.996,
+                            "bbox": [
+                                333.24,
+                                72.55,
+                                368.33,
+                                187.66
+                            ],
+                            "extracted_text": "",
+                            "summary": ""
+                        },
+                        {
+                            "object_id": "226bc1c2-e3f5-4f2b-b952-e384e137b0f0",
+                            "label": "couch",
+                            "confidence": 0.995,
+                            "bbox": [
+                                -0.02,
+                                1.15,
+                                639.73,
+                                473.76
+                            ],
+                            "extracted_text": "",
+                            "summary": ""
+                        },
+                        {
+                            "object_id": "5d0c1025-b729-4d4a-9f37-35aa3ed88857",
+                            "label": "cat",
+                            "confidence": 0.999,
+                            "bbox": [
+                                13.24,
+                                52.05,
+                                314.02,
+                                470.93
+                            ],
+                            "extracted_text": "",
+                            "summary": ""
+                        },
+                        {
+                            "object_id": "6ebb37c9-8ec9-4370-bca2-1c030d5dca8e",
+                            "label": "cat",
+                            "confidence": 0.999,
+                            "bbox": [
+                                345.4,
+                                23.85,
+                                640.37,
+                                368.72
+                            ],
+                            "extracted_text": "",
+                            "summary": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
