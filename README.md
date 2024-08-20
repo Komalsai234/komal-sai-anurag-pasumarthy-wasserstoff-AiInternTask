@@ -22,9 +22,9 @@ This project implements a comprehensive pipeline that processes input images to 
     ```bash
     pip install -r requirements.txt
 
-3. **Download Pre-trained Models**
+4. **Run the Streamlit Application**
     ```bash
-    The necessary models are downloaded automatically when the pipeline runs.
+    streamlit run .\streamlit_app\app.py
     ```
 
 ## Usage Guidelines
@@ -41,4 +41,4 @@ This project implements a comprehensive pipeline that processes input images to 
     - Optionally, download the final output table and annotated image.
 
 ## Usage Guidelines
-**Streamlit App URL:** https://komalsai234-komalsai234-komal-sai-anura-streamlit-appapp-yvanuw.streamlit.app/
+**Streamlit App URL:** https://komal-sai-anurag-wasserstoff-object-detection.streamlit.app/
